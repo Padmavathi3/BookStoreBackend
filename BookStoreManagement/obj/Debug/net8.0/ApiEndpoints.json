@@ -26,6 +26,69 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BookStoreManagement.Controllers.CartController",
+    "Method": "AddToCart",
+    "RelativePath": "api/Cart/AddBookToCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "ModelLayer.DTO.Request.CartRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStoreManagement.Controllers.CartController",
+    "Method": "Deletebook",
+    "RelativePath": "api/Cart/DeleteBook",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStoreManagement.Controllers.CartController",
+    "Method": "GetAllCartBooks",
+    "RelativePath": "api/Cart/GetAllcarts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStoreManagement.Controllers.CartController",
+    "Method": "UpdateQuantity",
+    "RelativePath": "api/Cart/Updatequantity",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "quantity",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BookStoreManagement.Controllers.UserController",
     "Method": "ChangePassword",
     "RelativePath": "api/User/ChangePassword/{otp}/{password}",

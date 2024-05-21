@@ -20,6 +20,9 @@ builder.Services.AddScoped<IUserBl,UserServiceBl>();
 //books
 builder.Services.AddScoped<IBook,BookService>();
 builder.Services.AddScoped<IBookBl,BookServiceBl>();
+//cart
+builder.Services.AddScoped<ICart,CartService>();
+builder.Services.AddScoped<ICartBl,CartServiceBl>();
 
 //----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 builder.Services.AddCors(options =>
@@ -41,7 +44,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Get USerNotes based on ID", Version = "v1" });
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "BookStore Project", Version = "v1" });
 
     // Define the JWT bearer scheme
     var securityScheme = new OpenApiSecurityScheme
