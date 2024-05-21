@@ -1,4 +1,5 @@
 ﻿using BusinessLayer.BInterfaces;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
@@ -14,6 +15,7 @@ namespace BookStoreManagement.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors]
     public class UserController : ControllerBase
     {
         private readonly IUserBl _users;

@@ -73,3 +73,4 @@ D:\C#Projects\BookStoreManagement\BookStoreManagement\obj\Debug\net8.0\refint\Bo
 D:\C#Projects\BookStoreManagement\BookStoreManagement\obj\Debug\net8.0\BookStoreManagement.pdb
 D:\C#Projects\BookStoreManagement\BookStoreManagement\obj\Debug\net8.0\BookStoreManagement.genruntimeconfig.cache
 D:\C#Projects\BookStoreManagement\BookStoreManagement\obj\Debug\net8.0\ref\BookStoreManagement.dll
+D:\C#Projects\BookStoreManagement\BookStoreManagement\obj\Debug\net8.0\BookStoreManagement.sourcelink.json

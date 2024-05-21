@@ -13,3 +13,4 @@ D:\C#Projects\BookStoreManagement\RepositoryLayer\obj\Debug\net8.0\RepositoryLay
 D:\C#Projects\BookStoreManagement\RepositoryLayer\obj\Debug\net8.0\refint\RepositoryLayer.dll
 D:\C#Projects\BookStoreManagement\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.pdb
 D:\C#Projects\BookStoreManagement\RepositoryLayer\obj\Debug\net8.0\ref\RepositoryLayer.dll
+D:\C#Projects\BookStoreManagement\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.sourcelink.json
