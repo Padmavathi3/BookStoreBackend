@@ -1,5 +1,68 @@
 [
   {
+    "ContainingType": "BookStoreManagement.Controllers.AddressController",
+    "Method": "AddAddress",
+    "RelativePath": "api/Address/AddAddress",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ModelLayer.DTO.Request.AddressRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStoreManagement.Controllers.AddressController",
+    "Method": "DeleteAddress",
+    "RelativePath": "api/Address/DeleteAddress",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mobileNumber",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStoreManagement.Controllers.AddressController",
+    "Method": "GetCustomerDetails",
+    "RelativePath": "api/Address/GetCustomerDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStoreManagement.Controllers.AddressController",
+    "Method": "UpdateAddress",
+    "RelativePath": "api/Address/UpdateAddress/{mobileNumber}/{fullAddress}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mobileNumber",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "fullAddress",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BookStoreManagement.Controllers.BooksController",
     "Method": "AddBooks",
     "RelativePath": "api/Books/AddBooks",
@@ -70,7 +133,7 @@
   {
     "ContainingType": "BookStoreManagement.Controllers.CartController",
     "Method": "UpdateQuantity",
-    "RelativePath": "api/Cart/Updatequantity",
+    "RelativePath": "api/Cart/UpdateQuantity",
     "HttpMethod": "PATCH",
     "IsController": true,
     "Order": 0,
