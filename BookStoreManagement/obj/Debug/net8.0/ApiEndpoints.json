@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "BookStoreManagement.Controllers.BooksController",
+    "Method": "AddBooks",
+    "RelativePath": "api/Books/AddBooks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "ModelLayer.DTO.Request.BookRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStoreManagement.Controllers.BooksController",
+    "Method": "GetAllBooks",
+    "RelativePath": "api/Books/GetAllBooks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BookStoreManagement.Controllers.UserController",
     "Method": "ChangePassword",
     "RelativePath": "api/User/ChangePassword/{otp}/{password}",

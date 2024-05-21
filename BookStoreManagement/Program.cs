@@ -16,7 +16,25 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddSingleton<DapperContext>();
 //user
 builder.Services.AddScoped<IUser,UserService>();    
-builder.Services.AddScoped<IUserBl,UserServiceBl>();    
+builder.Services.AddScoped<IUserBl,UserServiceBl>();
+//books
+builder.Services.AddScoped<IBook,BookService>();
+builder.Services.AddScoped<IBookBl,BookServiceBl>();
+
+//----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowSpecificOrigin",
+        builder =>
+        {
+            builder.WithOrigins("http://localhost:4200", "https://localhost:7231")
+                   .AllowAnyMethod()
+                   .AllowAnyHeader()
+                   .AllowAnyOrigin();
+        });
+});
+//---------------------------------------------------------------------------------------------------------------------------------------
+
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -88,6 +106,7 @@ builder.Services.AddAuthentication(options =>
 //-------------------------------------------------------------------------------------------------
 
 var app = builder.Build();
+app.UseCors("AllowSpecificOrigin");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
