@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "D:\\C#Projects\\BookStoreManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|d:\\c#projects\\bookstoremanagement\\repositorylayer\\rservices\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\rservices\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9200C7A0-7E71-4997-B2BA-9A9040D72726}|BookStoreManagement\\BookStoreManagement.csproj|d:\\c#projects\\bookstoremanagement\\bookstoremanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9200C7A0-7E71-4997-B2BA-9A9040D72726}|BookStoreManagement\\BookStoreManagement.csproj|solutionrelative:bookstoremanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|d:\\c#projects\\bookstoremanagement\\repositorylayer\\rinterfaces\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\rinterfaces\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|d:\\c#projects\\bookstoremanagement\\repositorylayer\\rservices\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\rservices\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80D8D41-4178-4154-B851-A25286FF8A22}|BusinessLayer\\BusinessLayer.csproj|d:\\c#projects\\bookstoremanagement\\businesslayer\\bservices\\orderservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80D8D41-4178-4154-B851-A25286FF8A22}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\bservices\\orderservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80D8D41-4178-4154-B851-A25286FF8A22}|BusinessLayer\\BusinessLayer.csproj|d:\\c#projects\\bookstoremanagement\\businesslayer\\binterfaces\\iorderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80D8D41-4178-4154-B851-A25286FF8A22}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\binterfaces\\iorderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9200C7A0-7E71-4997-B2BA-9A9040D72726}|BookStoreManagement\\BookStoreManagement.csproj|d:\\c#projects\\bookstoremanagement\\bookstoremanagement\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9200C7A0-7E71-4997-B2BA-9A9040D72726}|BookStoreManagement\\BookStoreManagement.csproj|solutionrelative:bookstoremanagement\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80D8D41-4178-4154-B851-A25286FF8A22}|BusinessLayer\\BusinessLayer.csproj|d:\\c#projects\\bookstoremanagement\\businesslayer\\bservices\\addressservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80D8D41-4178-4154-B851-A25286FF8A22}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\bservices\\addressservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74289B88-AB11-4EFB-A52E-256DF77B437C}|ModelLayer\\ModelLayer.csproj|d:\\c#projects\\bookstoremanagement\\modellayer\\dto\\request\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74289B88-AB11-4EFB-A52E-256DF77B437C}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\dto\\request\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74289B88-AB11-4EFB-A52E-256DF77B437C}|ModelLayer\\ModelLayer.csproj|d:\\c#projects\\bookstoremanagement\\modellayer\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74289B88-AB11-4EFB-A52E-256DF77B437C}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|d:\\c#projects\\bookstoremanagement\\repositorylayer\\rinterfaces\\iaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\rinterfaces\\iaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74289B88-AB11-4EFB-A52E-256DF77B437C}|ModelLayer\\ModelLayer.csproj|d:\\c#projects\\bookstoremanagement\\modellayer\\dto\\request\\cartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74289B88-AB11-4EFB-A52E-256DF77B437C}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\dto\\request\\cartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{9200C7A0-7E71-4997-B2BA-9A9040D72726}|BookStoreManagement\\BookStoreManagement.csproj|solutionrelative:bookstoremanagement\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9200C7A0-7E71-4997-B2BA-9A9040D72726}|BookStoreManagement\\BookStoreManagement.csproj|d:\\c#projects\\bookstoremanagement\\bookstoremanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9200C7A0-7E71-4997-B2BA-9A9040D72726}|BookStoreManagement\\BookStoreManagement.csproj|solutionrelative:bookstoremanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D80D8D41-4178-4154-B851-A25286FF8A22}|BusinessLayer\\BusinessLayer.csproj|d:\\c#projects\\bookstoremanagement\\businesslayer\\binterfaces\\iaddressbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D80D8D41-4178-4154-B851-A25286FF8A22}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\binterfaces\\iaddressbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,24 +75,12 @@
       "RelativeMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\rservices\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|d:\\c#projects\\bookstoremanagement\\repositorylayer\\rservices\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\rservices\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80D8D41-4178-4154-B851-A25286FF8A22}|BusinessLayer\\BusinessLayer.csproj|d:\\c#projects\\bookstoremanagement\\businesslayer\\bservices\\addressservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80D8D41-4178-4154-B851-A25286FF8A22}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\bservices\\addressservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D80D8D41-4178-4154-B851-A25286FF8A22}|BusinessLayer\\BusinessLayer.csproj|d:\\c#projects\\bookstoremanagement\\businesslayer\\bservices\\bookservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D80D8D41-4178-4154-B851-A25286FF8A22}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\bservices\\bookservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74289B88-AB11-4EFB-A52E-256DF77B437C}|ModelLayer\\ModelLayer.csproj|d:\\c#projects\\bookstoremanagement\\modellayer\\entities\\addressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74289B88-AB11-4EFB-A52E-256DF77B437C}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\entities\\addressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|d:\\c#projects\\bookstoremanagement\\repositorylayer\\rinterfaces\\iaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\rinterfaces\\iaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1A62933-FB09-48C0-8B5C-39060CB6CB84}|RepositoryLayer\\RepositoryLayer.csproj|d:\\c#projects\\bookstoremanagement\\repositorylayer\\rservices\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -150,7 +178,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,7 +202,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BookStoreManagement\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BookStoreManagement\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\C#Projects\\BookStoreManagement\\BookStoreManagement\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BookStoreManagement\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwD0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:07:32.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderServiceBl.cs",
+              "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BusinessLayer\\BServices\\OrderServiceBl.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BServices\\OrderServiceBl.cs",
+              "ToolTip": "D:\\C#Projects\\BookStoreManagement\\BusinessLayer\\BServices\\OrderServiceBl.cs",
+              "RelativeToolTip": "BusinessLayer\\BServices\\OrderServiceBl.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIAywCYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:02:24.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderBl.cs",
+              "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BusinessLayer\\BInterfaces\\IOrderBl.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BInterfaces\\IOrderBl.cs",
+              "ToolTip": "D:\\C#Projects\\BookStoreManagement\\BusinessLayer\\BInterfaces\\IOrderBl.cs",
+              "RelativeToolTip": "BusinessLayer\\BInterfaces\\IOrderBl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:01:42.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RServices\\OrderService.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\RServices\\OrderService.cs",
+              "ToolTip": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RServices\\OrderService.cs",
+              "RelativeToolTip": "RepositoryLayer\\RServices\\OrderService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAewC4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:12:09.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RInterfaces\\IOrder.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\RInterfaces\\IOrder.cs",
+              "ToolTip": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RInterfaces\\IOrder.cs",
+              "RelativeToolTip": "RepositoryLayer\\RInterfaces\\IOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:10:17.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\ModelLayer\\Entities\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Entities\\OrderEntity.cs",
+              "ToolTip": "D:\\C#Projects\\BookStoreManagement\\ModelLayer\\Entities\\OrderEntity.cs",
+              "RelativeToolTip": "ModelLayer\\Entities\\OrderEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:09:48.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\ModelLayer\\DTO\\Request\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\DTO\\Request\\OrderRequest.cs",
+              "ToolTip": "D:\\C#Projects\\BookStoreManagement\\ModelLayer\\DTO\\Request\\OrderRequest.cs",
+              "RelativeToolTip": "ModelLayer\\DTO\\Request\\OrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:09:34.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "AddressController.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BookStoreManagement\\Controllers\\AddressController.cs",
               "RelativeDocumentMoniker": "BookStoreManagement\\Controllers\\AddressController.cs",
@@ -182,12 +301,11 @@
               "RelativeToolTip": "BookStoreManagement\\Controllers\\AddressController.cs",
               "ViewState": "AQIAAIwAAAAAAAAAAAA7wIsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:41:54.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T11:41:54.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "BookService.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RServices\\BookService.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\RServices\\BookService.cs",
@@ -195,25 +313,24 @@
               "RelativeToolTip": "RepositoryLayer\\RServices\\BookService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:24:45.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T11:24:45.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "AddressServiceBl.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BusinessLayer\\BServices\\AddressServiceBl.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\BServices\\AddressServiceBl.cs",
               "ToolTip": "D:\\C#Projects\\BookStoreManagement\\BusinessLayer\\BServices\\AddressServiceBl.cs",
               "RelativeToolTip": "BusinessLayer\\BServices\\AddressServiceBl.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAwDoAAAAAAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T10:57:13.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "IAddressBl.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BusinessLayer\\BInterfaces\\IAddressBl.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\BInterfaces\\IAddressBl.cs",
@@ -221,38 +338,37 @@
               "RelativeToolTip": "BusinessLayer\\BInterfaces\\IAddressBl.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T10:56:37.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T10:56:37.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "AddressService.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RServices\\AddressService.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\RServices\\AddressService.cs",
               "ToolTip": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RServices\\AddressService.cs",
               "RelativeToolTip": "RepositoryLayer\\RServices\\AddressService.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAowHAAAAAJAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T10:56:11.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "IAddress.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RInterfaces\\IAddress.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\RInterfaces\\IAddress.cs",
               "ToolTip": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RInterfaces\\IAddress.cs",
               "RelativeToolTip": "RepositoryLayer\\RInterfaces\\IAddress.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA4AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T10:55:27.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "AddressRequest.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\ModelLayer\\DTO\\Request\\AddressRequest.cs",
               "RelativeDocumentMoniker": "ModelLayer\\DTO\\Request\\AddressRequest.cs",
@@ -260,12 +376,11 @@
               "RelativeToolTip": "ModelLayer\\DTO\\Request\\AddressRequest.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAmwAsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T10:55:07.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T10:55:07.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "AddressEntity.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\ModelLayer\\Entities\\AddressEntity.cs",
               "RelativeDocumentMoniker": "ModelLayer\\Entities\\AddressEntity.cs",
@@ -273,12 +388,11 @@
               "RelativeToolTip": "ModelLayer\\Entities\\AddressEntity.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAmwAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T10:54:35.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T10:54:35.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "CartController.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BookStoreManagement\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "BookStoreManagement\\Controllers\\CartController.cs",
@@ -286,25 +400,24 @@
               "RelativeToolTip": "BookStoreManagement\\Controllers\\CartController.cs",
               "ViewState": "AQIAAIUAAAAAAAAAAAAowJkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T09:11:33.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T09:11:33.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "CartRequest.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\ModelLayer\\DTO\\Request\\CartRequest.cs",
               "RelativeDocumentMoniker": "ModelLayer\\DTO\\Request\\CartRequest.cs",
               "ToolTip": "D:\\C#Projects\\BookStoreManagement\\ModelLayer\\DTO\\Request\\CartRequest.cs",
               "RelativeToolTip": "ModelLayer\\DTO\\Request\\CartRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T09:00:01.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "ICartBl.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BusinessLayer\\BInterfaces\\ICartBl.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\BInterfaces\\ICartBl.cs",
@@ -316,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "CartServiceBl.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BusinessLayer\\BServices\\CartServiceBl.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\BServices\\CartServiceBl.cs",
@@ -328,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "CartService.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RServices\\CartService.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\RServices\\CartService.cs",
@@ -336,12 +449,11 @@
               "RelativeToolTip": "RepositoryLayer\\RServices\\CartService.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAIwD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T08:57:23.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T08:57:23.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "ICart.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RInterfaces\\ICart.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\RInterfaces\\ICart.cs",
@@ -353,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "CartEntity.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\ModelLayer\\Entities\\CartEntity.cs",
               "RelativeDocumentMoniker": "ModelLayer\\Entities\\CartEntity.cs",
@@ -365,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "BookRequest.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\ModelLayer\\DTO\\Request\\BookRequest.cs",
               "RelativeDocumentMoniker": "ModelLayer\\DTO\\Request\\BookRequest.cs",
@@ -373,12 +485,11 @@
               "RelativeToolTip": "ModelLayer\\DTO\\Request\\BookRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T07:20:21.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T07:20:21.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "BookEntity.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\ModelLayer\\Entities\\BookEntity.cs",
               "RelativeDocumentMoniker": "ModelLayer\\Entities\\BookEntity.cs",
@@ -390,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "BookServiceBl.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BusinessLayer\\BServices\\BookServiceBl.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\BServices\\BookServiceBl.cs",
@@ -398,12 +509,11 @@
               "RelativeToolTip": "BusinessLayer\\BServices\\BookServiceBl.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAawB8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T07:19:36.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T07:19:36.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "IBookBl.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BusinessLayer\\BInterfaces\\IBookBl.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\BInterfaces\\IBookBl.cs",
@@ -415,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "IBook.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RInterfaces\\IBook.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\RInterfaces\\IBook.cs",
@@ -427,20 +537,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BookStoreManagement\\Program.cs",
               "RelativeDocumentMoniker": "BookStoreManagement\\Program.cs",
               "ToolTip": "D:\\C#Projects\\BookStoreManagement\\BookStoreManagement\\Program.cs",
               "RelativeToolTip": "BookStoreManagement\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAtwBsAAAA6AAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAtwCUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T06:41:36.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "InvalidMobileNumberException.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\CustomExceptions\\InvalidMobileNumberException.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\CustomExceptions\\InvalidMobileNumberException.cs",
@@ -452,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BookStoreManagement\\appsettings.json",
               "RelativeDocumentMoniker": "BookStoreManagement\\appsettings.json",
@@ -464,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "NestedMethodsClass.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\NestedMethods\\NestedMethodsClass.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\NestedMethods\\NestedMethodsClass.cs",
@@ -476,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "InvalidEmailFormatException.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\CustomExceptions\\InvalidEmailFormatException.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\CustomExceptions\\InvalidEmailFormatException.cs",
@@ -488,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "IdNotFoundException.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\CustomExceptions\\IdNotFoundException.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\CustomExceptions\\IdNotFoundException.cs",
@@ -500,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "EmptyListException.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\CustomExceptions\\EmptyListException.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\CustomExceptions\\EmptyListException.cs",
@@ -512,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "EmailNotFoundException.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\CustomExceptions\\EmailNotFoundException.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\CustomExceptions\\EmailNotFoundException.cs",
@@ -524,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "DapperContext.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\Context\\DapperContext.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\Context\\DapperContext.cs",
@@ -536,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "UserServiceBl.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BusinessLayer\\BServices\\UserServiceBl.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\BServices\\UserServiceBl.cs",
@@ -548,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "IUserBl.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BusinessLayer\\BInterfaces\\IUserBl.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\BInterfaces\\IUserBl.cs",
@@ -560,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RServices\\UserService.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\RServices\\UserService.cs",
@@ -572,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "IUser.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\RepositoryLayer\\RInterfaces\\IUser.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\RInterfaces\\IUser.cs",
@@ -584,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "UserEntity.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\ModelLayer\\Entities\\UserEntity.cs",
               "RelativeDocumentMoniker": "ModelLayer\\Entities\\UserEntity.cs",
@@ -596,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\C#Projects\\BookStoreManagement\\BookStoreManagement\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "BookStoreManagement\\Controllers\\UserController.cs",

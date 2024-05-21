@@ -26,6 +26,9 @@ builder.Services.AddScoped<ICartBl,CartServiceBl>();
 //Address
 builder.Services.AddScoped<IAddress,AddressService>();
 builder.Services.AddScoped<IAddressBl,AddressServiceBl>();
+//Order
+builder.Services.AddScoped<IOrder,OrderService>();
+builder.Services.AddScoped<IOrderBl,OrderServiceBl>();  
 
 //----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 builder.Services.AddCors(options =>
