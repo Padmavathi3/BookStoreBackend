@@ -23,6 +23,9 @@ builder.Services.AddScoped<IBookBl,BookServiceBl>();
 //cart
 builder.Services.AddScoped<ICart,CartService>();
 builder.Services.AddScoped<ICartBl,CartServiceBl>();
+//Address
+builder.Services.AddScoped<IAddress,AddressService>();
+builder.Services.AddScoped<IAddressBl,AddressServiceBl>();
 
 //----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 builder.Services.AddCors(options =>
