@@ -28,7 +28,10 @@ builder.Services.AddScoped<IAddress,AddressService>();
 builder.Services.AddScoped<IAddressBl,AddressServiceBl>();
 //Order
 builder.Services.AddScoped<IOrder,OrderService>();
-builder.Services.AddScoped<IOrderBl,OrderServiceBl>();  
+builder.Services.AddScoped<IOrderBl,OrderServiceBl>();
+//wishlist
+builder.Services.AddScoped<IWishlist, WishlistService>();
+builder.Services.AddScoped<IWishlistBl, WishlistServiceBl>();   
 
 //----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 builder.Services.AddCors(options =>

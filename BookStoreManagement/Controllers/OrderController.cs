@@ -1,9 +1,11 @@
 ﻿using BusinessLayer.BInterfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ModelLayer.DTO.Request;
 using ModelLayer.DTO.Response;
 using ModelLayer.Entities;
+using System.Security.Claims;
 
 namespace BookStoreManagement.Controllers
 {
@@ -19,8 +21,10 @@ namespace BookStoreManagement.Controllers
         }
         //----------------------------------------------
         [HttpPost("AddOrder")]
+        [Authorize]
         public async Task<IActionResult> AddOrder(OrderRequest request)
         {
+            request.UserId = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier));
             try
             {
                 bool isSuccess = await _orderBl.AddOrder(request);
@@ -55,8 +59,10 @@ namespace BookStoreManagement.Controllers
         }
 
         [HttpGet("GetAllOrders")]
+        [Authorize]
         public async Task<IActionResult> GetAllOrders()
         {
+
             try
             {
                 var orders = await _orderBl.GetOrder();
